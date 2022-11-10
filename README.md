@@ -7,6 +7,9 @@ Automating the creation of a Proxmox CT and prepare if for use.
 
 **Proxmox Checklist**
  - [ ] Create Proxmox CT with Desired Template
+ - [ ] Use Generic Root password for initial setup
+ - [ ] Set up System Specs
+ - [ ] Set Network Stack
 
  **Ansible account**
  - [ ] Creating an Ansible user account 
